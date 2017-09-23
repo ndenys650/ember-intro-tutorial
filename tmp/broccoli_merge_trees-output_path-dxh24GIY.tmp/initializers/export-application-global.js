@@ -1,0 +1,1 @@
+/Users/nathanaeldenys/Documents/Ember/library-app/tmp/broccoli_merge_trees-input_base_path-AeIr7It3.tmp/4/initializers/export-application-global.js

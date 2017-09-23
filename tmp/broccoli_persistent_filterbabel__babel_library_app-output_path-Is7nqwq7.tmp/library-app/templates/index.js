@@ -1,0 +1,8 @@
+define("library-app/templates/index", ["exports"], function (exports) {
+  "use strict";
+
+  Object.defineProperty(exports, "__esModule", {
+    value: true
+  });
+  exports.default = Ember.HTMLBars.template({ "id": "CKL+cGC2", "block": "{\"symbols\":[],\"statements\":[[6,\"div\"],[9,\"class\",\"jumbotron text-center\"],[7],[0,\"\\n  \"],[6,\"h1\"],[7],[0,\"Coming Soon\"],[8],[0,\"\\n\\n  \"],[6,\"br\"],[7],[8],[6,\"br\"],[7],[8],[0,\"\\n\\n  \"],[6,\"p\"],[7],[0,\"Don't miss our launch date, request an invitation now.\"],[8],[0,\"\\n\\n  \"],[6,\"div\"],[9,\"class\",\"form-horizontal form-group form-group-lg row\"],[7],[0,\"\\n    \"],[6,\"div\"],[9,\"class\",\"col-xs-10 col-xs-offset-1 col-sm-6 col-sm-offset-1 col-md-5 col-md-offset-2\"],[7],[0,\"\\n      \"],[6,\"input\"],[9,\"type\",\"email\"],[9,\"class\",\"form-control\"],[9,\"placeholder\",\"Please type your e-mail address.\"],[9,\"autofocus\",\"autofocus\"],[7],[8],[0,\"\\n    \"],[8],[0,\"\\n    \"],[6,\"div\"],[9,\"class\",\"col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-4 col-md-3\"],[7],[0,\"\\n        \"],[6,\"button\"],[10,\"disabled\",[18,\"isDisabled\"],null],[9,\"class\",\"btn btn-primary btn-lg btn-block\"],[7],[0,\"Request invitation\"],[8],[0,\"\\n    \"],[8],[0,\"\\n  \"],[8],[0,\"\\n  \"],[6,\"br\"],[7],[8],[6,\"br\"],[7],[8],[0,\"\\n\"],[8]],\"hasEval\":false}", "meta": { "moduleName": "library-app/templates/index.hbs" } });
+});
