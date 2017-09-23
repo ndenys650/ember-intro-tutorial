@@ -1,0 +1,1 @@
+/Users/nathanaeldenys/Documents/Ember/library-app/tmp/creator-output_path-ALmX2HLy.tmp/version.js

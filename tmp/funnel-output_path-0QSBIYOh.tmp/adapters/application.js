@@ -1,0 +1,1 @@
+/Users/nathanaeldenys/Documents/Ember/library-app/tmp/funnel-input_base_path-hbOny3fC.tmp/adapters/application.js
