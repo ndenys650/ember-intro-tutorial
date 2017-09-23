@@ -60,8 +60,12 @@ module.exports = function(environment) {
     ENV.APP.rootElement = '#ember-testing';
   }
 
-  if (environment === 'production') {
 
+// deploying app to firebase with faker data
+  if (environment === 'production') {
+      ENV['ember-faker'] = {
+      enabled: true
+    };
   }
 
   return ENV;
